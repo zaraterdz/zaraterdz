@@ -9,13 +9,13 @@
 
 - 📝 Regularmente escribo artículos en [https://es.quora.com/profile/Alexis-Z%C3%A1rate](https://es.quora.com/profile/Alexis-Z%C3%A1rate)
 
-- 💬 Pregúntame acerca de **html, css, c#**
+- 💬 Pregúntame acerca de **HTML5, CSS3, JS, C#**
 
 - 📫 Cómo contactarme **leozaraterdz@gmail.com**
 
 - 📄 Conoce acerca de mi experiencia [https://zaratecad.com/experiencia/](https://zaratecad.com/experiencia/)
 
-- ⚡ Dato curioso **Cuándo tenía 10 años pesqué una anguila en el malecón 🐍**
+- ⚡ Dato curioso **Cuándo tenía 10 años pesqué una anguila en mi ciudad natal Acapulco 🐍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
