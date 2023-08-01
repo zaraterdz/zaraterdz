@@ -1,15 +1,9 @@
 <h1 align="center">Hola 👋, soy Alexis Zárate</h1>
 <h3 align="center">Ingeniero titulado apasionado por la informática</h3>
 
-- 🔭 Actualmente estoy trabajando en **desarrollo frontend 🤓**
-
 - 🌱 Actualmente estoy aprendiendo **Frontend con alguna pizca de backend**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://alexiszarate.com](https://alexiszarate.com)
-
 - 📝 Regularmente escribo artículos en [https://es.quora.com/profile/Alexis-Z%C3%A1rate](https://es.quora.com/profile/Alexis-Z%C3%A1rate)
-
-- 💬 Pregúntame acerca de **HTML5, CSS3, JS, C#**
 
 - 📫 Cómo contactarme **leozaraterdz@gmail.com**
 
