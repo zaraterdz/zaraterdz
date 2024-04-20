@@ -7,7 +7,7 @@
 
 - 📫 Cómo contactarme **leozaraterdz@gmail.com**
 
-- 📄 Conoce acerca de mi experiencia [https://zaratecad.com/experiencia/](https://zaratecad.com/experiencia/)
+- 📄 Conoce acerca de mi experiencia [https://zaratecad.com/experiencia/](https://alexiszarate.com/)
 
 - ⚡ Dato curioso **Cuándo tenía 10 años pesqué una anguila en mi ciudad natal Acapulco 🐍**
 
