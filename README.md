@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alexis Zárate</h1>
-<h3 align="center">Ingeniero titulado apasionado por la informática</h3>
+<h3 align="center">Ingeniero apasionado por el desarrollo de software</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Frontend con alguna pizca de backend**
 
